@@ -2,6 +2,8 @@
 
 Micro-service using [dropwizard] (http://dropwizard.io) for use with magpie-angular-starter
 
+Also useful to bootstrap new projects!
+
 ***
 
 ## Prerequisites
